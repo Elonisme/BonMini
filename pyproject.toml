@@ -1,9 +1,9 @@
 # This project was generated with 0.3.15 using template: https://github.com/beeware/briefcase-template@v0.3.15
 [tool.briefcase]
 project_name = "BonMini"
-bundle = "com.example"
-version = "0.0.1"
-url = "https://example.com/bonmini"
+bundle = "top.elon"
+version = "0.0.2"
+url = "elonli.top"
 license = "GNU General Public License v3 or later (GPLv3+)"
 author = "Elon Li"
 author_email = "elonisme@163.com"
